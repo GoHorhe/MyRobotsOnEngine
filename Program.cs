@@ -18,6 +18,7 @@ namespace MyConsole
             decimal asd = z + x;
             Console.WriteLine(asd);
             Console.ReadLine();
+            //ЦИКЛ WHILE | ЧТО ЭТО | КАК РАБОТАЕТ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 16
         }
     }
 }
